@@ -1,7 +1,7 @@
 "use strict";
 
 const songFile =
-  "C:/Users/chann/Desktop/Coding/JavaScript/AMQ Web Scrapers/gatheredData/songs/newsongs.json";
+  "../../../../newsongs.json";
 const fs = require("fs");
 
 module.exports = {
